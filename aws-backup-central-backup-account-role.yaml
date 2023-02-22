@@ -34,7 +34,7 @@ Parameters:
   pCrossAccountBackupRole:
     Type: String
     Description: This is the IAM role name for the cross-account backup role that carries out the backup activities.
-    Default:  AWSBackupSolutionCentralAccountRole
+    Default:  AWSBackupSolutionCentralAccountRole1
   # Customer Specific Tags - Example
   BusinessUnit:
     Description: Business Unit Name
