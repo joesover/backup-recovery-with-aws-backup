@@ -45,8 +45,9 @@ Parameters:
       - Marketing
       - Engineering
       - R&D
+      - Devops
     ConstraintDescription: Must be a valid business unit
-    Default:  Engineering
+    Default:  Devops
   CostCenter:
     Description: Cost Center for AWS Services
     Type: String
