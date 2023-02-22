@@ -47,7 +47,7 @@ Parameters:
       - R&D
       - Devops
     ConstraintDescription: Must be a valid business unit
-    Default:  Devops
+    Default:  Marketing
   CostCenter:
     Description: Cost Center for AWS Services
     Type: String
