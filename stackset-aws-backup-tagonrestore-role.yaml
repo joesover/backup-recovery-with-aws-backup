@@ -84,7 +84,7 @@ Resources:
         -
           DeploymentTargets:
 #            Accounts: !Ref StackSetTargetAccounts
-            OrganizationalUnitIds: !Ref StackSetTargetOUsParameterStore
+            OrganizationalUnitIds: o-6kplxgtx0o
 #          ParameterOverrides:
 #            - Parameter
           Regions:
